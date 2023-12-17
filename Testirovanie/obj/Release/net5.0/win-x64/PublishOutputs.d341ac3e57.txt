@@ -1,0 +1,8 @@
+C:\Testirovanie\Testirovanie\Testirovanie\bin\Release\net5.0\win-x64\publish\Testirovanie.pdb
+C:\Testirovanie\Testirovanie\Testirovanie\bin\Release\net5.0\win-x64\publish\testhost.exe
+C:\Testirovanie\Testirovanie\Testirovanie\bin\Release\net5.0\win-x64\publish\NUnit3.TestAdapter.pdb
+C:\Testirovanie\Testirovanie\Testirovanie\bin\Release\net5.0\win-x64\publish\clrcompression.dll
+C:\Testirovanie\Testirovanie\Testirovanie\bin\Release\net5.0\win-x64\publish\clrjit.dll
+C:\Testirovanie\Testirovanie\Testirovanie\bin\Release\net5.0\win-x64\publish\coreclr.dll
+C:\Testirovanie\Testirovanie\Testirovanie\bin\Release\net5.0\win-x64\publish\mscordaccore.dll
+C:\Testirovanie\Testirovanie\Testirovanie\bin\Release\net5.0\win-x64\publish\Testirovanie.exe
